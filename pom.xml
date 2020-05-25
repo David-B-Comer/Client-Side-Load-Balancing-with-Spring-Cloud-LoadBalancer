@@ -11,5 +11,7 @@
     <modules>
       <module>say-hello</module>
       <module>user</module>
+        <module>say-hello</module>
+        <module>user</module>
     </modules>
 </project>

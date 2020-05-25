@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Client-Side Load-Balancing with Spring Cloud LoadBalancer.iml" filepath="$PROJECT_DIR$/.idea/Client-Side Load-Balancing with Spring Cloud LoadBalancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/say-hello/say-hello.iml" filepath="$PROJECT_DIR$/say-hello/say-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
     </modules>
   </component>
 </project>
