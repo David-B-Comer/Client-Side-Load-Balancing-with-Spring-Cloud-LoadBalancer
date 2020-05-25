@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 
-/**
- * @author Olga Maciaszek-Sharma
- */
+
 @SpringBootApplication
 @RestController
 public class UserApplication {
